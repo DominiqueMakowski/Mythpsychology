@@ -1,12 +1,11 @@
 # Mythpsychology
-A review of existing relationship between myths and psychological concepts.
+A review of existing relationship between myths and psychological concepts. **TO BE COMPLETED (feel free to contribute)**.
 
 ## Greek
 
 ### Eros
 
-### Thanatos
-
+Eros, the tendency toward survival, propagation, sex, and other creative, life-producing drives.
 
 ### Oedipus Complex
 
@@ -33,6 +32,10 @@ See [Nyctimene Myth](https://en.wikipedia.org/wiki/Nyctimene_(mythology).
 ### Phaedra Complex
 
 The Phaedra Complex  refers to the sexual desire of a stepmother for her stepson, and by extension covers ambiguous relationships and desires between stepparents and stepchildren. Phaedra was the daughter of Minos and Pasiphae. Though married to Theseus, she fell in love with Hippolytus, Theseus' son born by either Hippolyta or her sister Antiope.
+
+### Thanatos
+
+Thanatos refers to the drive toward death and destruction, often expressed through behaviors such as aggression, repetition compulsion, and self-destructiveness. Although this term was not used in Freud's own work, being rather introduced by Wilhelm Stekel in 1909, it was defended by subsequent psychoanalysists like Lacan and Klein.
 
 ### Medea Complex
 
