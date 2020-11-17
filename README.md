@@ -13,7 +13,7 @@ Eros, the tendency toward survival, propagation, sex, and other creative, life-p
 
 Oedipus complex, in psychoanalytic theory, a desire for sexual involvement with the parent of the opposite sex and a concomitant sense of rivalry with the parent of the same sex; a crucial stage in the normal developmental process. Sigmund Freud introduced the concept in his Interpretation of Dreams (1899).
 
-### Elecra Complex
+### Electra Complex
 
 Feminine counterpart of Oedipus' complex, the Electra complex, as proposed by Carl Jung in his Theory of Psychoanalysis, is a girl's psychosexual competition with her mother for possession of her father.
 
