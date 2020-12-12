@@ -29,7 +29,7 @@ Introduced by Raymond de Saussure in 1920, the Jocasta Complex denotes an obsess
 
 This complex embodies an obsessive desire of a father to keep his daughter permanently by his side, which prompts him to impede her getting married, and, therefore leaving him.
 
-See [Nyctimene Myth](https://en.wikipedia.org/wiki/Nyctimene_(mythology).
+See [Nyctimene Myth](https://en.wikipedia.org/wiki/Nyctimene_(mythology)).
 
 ### Phaedra Complex
 
